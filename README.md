@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+My name is Travis Whetsell. I am currently an assistant professor in the School of Public Policy at the Georgia Institute of Technology. I completed my Ph.D. in public policy and management at the John Glenn College of Public Affairs at The Ohio State University. My research focuses on three general areas: network governance, science and technology policy, and public philosophy. This site primarily contains things relevant to my research as a computational social scientist and focuses primarily on my projects utilizing social network analysis.
+
 <!--
-**tawhetsell/tawhetsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tawhetsell/tawhetsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
