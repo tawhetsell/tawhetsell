@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Travis Whetsell. Welcome to my github page. This is where I post code and data related to my quantitative social science projects. I work primarily in R, occassionally work in Python, and use gpt-4 as an assistant.
+Welcome to my github page. This is where I post code and data related to my computational social science projects. I work primarily in R and occassionally in Python. I use gpt-4 for programming language support. 
