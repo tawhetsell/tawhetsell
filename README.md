@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my github page. This is where I post code and data related to my computational social science projects. I work primarily in R and occassionally in Python. I use gpt-4 for programming language support. 
+Welcome to my github page. This is where I post code and data related to my computational social science projects. I work primarily in R and occassionally in Python. 
