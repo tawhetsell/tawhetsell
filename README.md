@@ -23,7 +23,7 @@ I am a computational social scientist working as an assistant professor at Georg
 ---
 
 ## Links
-- [Google Scholar](scholar.google.com/citations?user=A6kiEDkAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=A6kiEDkAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Travis_Whetsell)  
 - [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Whetsell,+T+A)
 - [Georgia Tech Profile](https://spp.gatech.edu/people/person/ff1b6a02-e3ce-5c80-a7d5-803a3aee25ae)
